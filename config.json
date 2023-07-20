@@ -1,0 +1,10 @@
+{
+	"apiUrl": "http://api.apilayer.com/number_verification/validate",
+	"service": "Outlook365",
+	"host": "smtp.office365.com",
+	"port": "587",
+	"user": "fortestingonlyyy@hotmail.com",
+	"from": "fortestingonlyyy@hotmail.com",
+	"pass": "ForTestingOnly",
+	"numKey": "urnoYmfOjUtSwdcFs5DC6jG91qldfd71"
+}
